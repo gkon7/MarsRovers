@@ -1,0 +1,13 @@
+C:\Users\gokberk.konuralp\source\repos\MarsRovers\MarsRovers\obj\Debug\netcoreapp3.1\MarsRovers.csprojAssemblyReference.cache
+C:\Users\gokberk.konuralp\source\repos\MarsRovers\MarsRovers\obj\Debug\netcoreapp3.1\MarsRovers.AssemblyInfoInputs.cache
+C:\Users\gokberk.konuralp\source\repos\MarsRovers\MarsRovers\obj\Debug\netcoreapp3.1\MarsRovers.AssemblyInfo.cs
+C:\Users\gokberk.konuralp\source\repos\MarsRovers\MarsRovers\bin\Debug\netcoreapp3.1\MarsRovers.exe
+C:\Users\gokberk.konuralp\source\repos\MarsRovers\MarsRovers\bin\Debug\netcoreapp3.1\MarsRovers.deps.json
+C:\Users\gokberk.konuralp\source\repos\MarsRovers\MarsRovers\bin\Debug\netcoreapp3.1\MarsRovers.runtimeconfig.json
+C:\Users\gokberk.konuralp\source\repos\MarsRovers\MarsRovers\bin\Debug\netcoreapp3.1\MarsRovers.runtimeconfig.dev.json
+C:\Users\gokberk.konuralp\source\repos\MarsRovers\MarsRovers\bin\Debug\netcoreapp3.1\MarsRovers.dll
+C:\Users\gokberk.konuralp\source\repos\MarsRovers\MarsRovers\bin\Debug\netcoreapp3.1\MarsRovers.pdb
+C:\Users\gokberk.konuralp\source\repos\MarsRovers\MarsRovers\obj\Debug\netcoreapp3.1\MarsRovers.dll
+C:\Users\gokberk.konuralp\source\repos\MarsRovers\MarsRovers\obj\Debug\netcoreapp3.1\MarsRovers.pdb
+C:\Users\gokberk.konuralp\source\repos\MarsRovers\MarsRovers\obj\Debug\netcoreapp3.1\MarsRovers.genruntimeconfig.cache
+C:\Users\gokberk.konuralp\source\repos\MarsRovers\MarsRovers\obj\Debug\netcoreapp3.1\MarsRovers.csproj.CoreCompileInputs.cache
