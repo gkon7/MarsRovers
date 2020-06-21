@@ -6,13 +6,13 @@ First line of input is the dimensions of plateau. Then every two row is inital p
 
 Create an input file and change file path in Main method of. MarsProject.cs.
 
-Example Input:
-5 5
-1 2 N
-LMLMLMLMM
-3 3 E
-MMRMMRMRRM
+Example Input:<br/>
+5 5<br/>
+1 2 N<br/>
+LMLMLMLMM<br/>
+3 3 E<br/>
+MMRMMRMRRM<br/>
 
-Expected Output:
-1 3 N
+Expected Output:<br/>
+1 3 N<br/>
 5 1 E
