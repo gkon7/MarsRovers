@@ -1,4 +1,4 @@
-# MarsRovers
+# Mars Rovers
 
 A simple .NET Core console application about Mars rovers exploring a plateau on Mars!
 
